@@ -1,0 +1,3 @@
+[submodule "lua-txtmagic"]
+	path = lua-txtmagic
+	url = https://github.com/VanishBlox/lua-txtmagic.git

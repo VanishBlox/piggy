@@ -1,0 +1,11 @@
+############################ WARNING! ############################
+#   DO NOT CHANGE ANY LINE OR IT IS GOING TO BREAK THE SCRIPT.   #
+#   IF YOU CAN READ THIS, THEN EXIT THIS FILE. RUN.              #
+##################################################################
+IsFreshBankFile(0=false,1=true):
+1
+Balance:
+0
+Currency:
+UNKNOWN
+############################## LOGS ##############################
